@@ -28,7 +28,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: I enjoy watching football, listening to music and audiobooks in my spare time.
 
-- :mailbox: You can reach out to me via [email]( mailto:just4fun150@protonmail.com).
+
 
 ---
 
